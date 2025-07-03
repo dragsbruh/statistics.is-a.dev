@@ -1,0 +1,9 @@
+{
+  "name": "cron",
+  "scripts": {
+    "start": "bun run src/index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.2.17"
+  }
+}
