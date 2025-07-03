@@ -5,5 +5,9 @@
   },
   "devDependencies": {
     "@types/bun": "^1.2.17"
+  },
+  "dependencies": {
+    "node-html-parser": "^7.0.1",
+    "zod": "^3.25.71"
   }
 }
